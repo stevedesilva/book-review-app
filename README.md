@@ -1,2 +1,2 @@
-# -hackerBookReview-
+# BookReview
 # book-review-app
